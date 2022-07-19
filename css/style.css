@@ -1150,6 +1150,7 @@ body{
 
 @keyframes animation{
     0%{
+        transform: translateY(-100%);
         top: 0;
     }
 
