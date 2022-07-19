@@ -60,6 +60,10 @@ body{
     font-weight: 400;
 }
 
+.stop-body{
+    overflow: hidden;
+}
+
 .container{
     width: 1240px;
     margin-right: auto;
